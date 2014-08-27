@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-element",
+  "version": "0.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+    "google-map": "PolymerLabs/google-map#~0.2.3",
+    "google-map-streetview-panorama": "robdodson/google-map-streetview-panorama#~0.0.1"
+  },
+  "resolutions": {
+    "polymer": "master",
+    "platform": "master",
+    "core-component-page": ">=0.3.0 <1.0.0"
+  }
+}
